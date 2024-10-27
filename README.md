@@ -1,16 +1,18 @@
-## Hi there 👋
+SUI TRUMP
 
-<!--
-**suitrump/SUITRUMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Suitrump is where Trump's iconic persona meets the unstoppable flow of Sui's blockchain! We're here to make America great again—and make Sui #1 in crypto. Ride the Trumpwave and be part of the wildest, most fun meme coin revolution. Let’s make waves and take over the crypto world!
 
-Here are some ideas to get you started:
+Roadmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Phase 1: Movepump launch
+Website development
+Establish social media presence
+Community building
+
+Phase 2: Execute marketing campaigns
+Initiate clean water charity efforts
+Onboard key opinion leaders (KOLs)
+Expand community
+Achieve Coingecko listing
+
+Phase 3: SUITRUMP to the moon
