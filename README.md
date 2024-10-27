@@ -16,3 +16,8 @@ Expand community
 Achieve Coingecko listing
 
 Phase 3: SUITRUMP to the moon
+
+## Our Socials
+- [Twitter](https://x.com/suitrumptoken)
+- [Telegram](https://t.me/suitrumptoken)
+- [Website](https://suitrump.com/)
